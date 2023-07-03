@@ -6,5 +6,6 @@ The dashboard is organized by quarter, state, and sub-category, so we can easily
 
 
 
-![Uploading Ecommerce Sales dashboard.png…]()
+![Ecommerce Sales dashboard](https://github.com/preethamreddy3743/Sales-Dashboard/assets/88039877/4da02f54-4b3b-43ee-bf0d-2c08827827df)
+
 
