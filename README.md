@@ -5,3 +5,6 @@ The E-commerce Sales Dashboards project aimed to provide comprehensive insights 
 The dashboard is organized by quarter, state, and sub-category, so we can easily filter and drill down into specific areas of interest. For example, we can see how the sales performance varies by region, which sub-categories drive the most revenue, and how the sales have changed over time. This allows us to make data-driven decisions and adjust our sales strategy accordingly.
 
 
+
+![Uploading Ecommerce Sales dashboard.png…]()
+
